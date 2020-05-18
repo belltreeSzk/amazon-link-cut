@@ -4,12 +4,12 @@ Amazonのリンクの商品名情報を短縮した後、ユーザーが指定�
 
 # DEMO
  
-![短縮されているgif](amazon-link-shortener.gif)
+![短縮されているgif](images/amazon-link-shortener.gif)
  
 
 # Usage
 
-![使い方](usage.jpg)
+![使い方](images/usage.jpg)
 
 ## License
 MIT
