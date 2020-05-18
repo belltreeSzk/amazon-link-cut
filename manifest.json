@@ -3,6 +3,10 @@
   "name": "Amazon Link Shortener",
   "version": "1.0.0",
   "description": "Amazonのリンクを短くして、好きなアフィリエイトタグを追加します",
+  "icons": {
+    "16": "images/icon-16.png",
+    "128": "images/icon-128.png"
+  },
   "permissions": [
     "tabs"
   ],
